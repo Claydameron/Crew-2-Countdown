@@ -1,0 +1,89 @@
+::selection {
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+  }
+
+  p {
+    color: white;
+    font-family: Lorin;
+    font-size: 205%;
+    font-family: Avenir;
+  }
+
+  .contentBg{
+    background-color: rgba(0, 0, 0, 0.521);
+    margin-top: 15%;
+    padding-left: 15%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .head{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-family: Avenir;
+    padding-left: 40%
+  }
+
+  .head2{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-family: Avenir;
+    padding-left: 500px
+  }
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  background-image: url("Dragon.jpeg");
+
+  height: 100%; 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.button {
+    margin-top: 25px;
+    background-color: rgb(255, 255, 255); /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Avenir;
+    border-radius: 10px;
+    margin-left: 535px;
+  }
+
+  .button2 {
+    margin-top: 25px;
+    background-color: rgb(255, 255, 255); /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Avenir;
+    border-radius: 10px;
+    margin-left: 580px;
+  }
+
+  .margin {
+     margin-left: 275px; 
+     margin-top: 75px;
+  }
